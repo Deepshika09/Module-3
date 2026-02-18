@@ -19,7 +19,8 @@ print("Total:", total)
 ```
 
 ## Output
-<img width="478" height="118" alt="image" src="https://github.com/user-attachments/assets/db3513ee-559d-4db9-90fb-7931efe73a22" />
+
+<img width="478" height="118" alt="Screenshot 2026-02-18 234931" src="https://github.com/user-attachments/assets/5c8959b7-a573-49b5-9c13-b95e09beb7a0" />
 
 ## Result
 The program was executes successfully.
